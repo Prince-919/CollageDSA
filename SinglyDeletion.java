@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Singly Deletion ( Beginning , Ending , Position)
+
 public class SinglyDeletion {
     static class Node{
         int data;
