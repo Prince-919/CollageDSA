@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Singly Insertion ( Beginning , End , Position) 
 public class SinglyInsertion {
     static class Node{
         int data;
