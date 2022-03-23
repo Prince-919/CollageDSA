@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class Stack
 {
+    // Stack 
     int top = -1;
     int n=10;
     int arr[] = new int[n];
